@@ -1,0 +1,6 @@
+html, body{
+    overflow-x:hidden;
+    background-color: #262334;
+    
+    position: relative;
+}
